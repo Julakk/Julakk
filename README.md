@@ -6,7 +6,7 @@
 
 * ⚡ **Fokus:** Android dev | Pawn / SA-MP | Web Hosting
 * 🌐 **Website:** [ahmadpanel.web.id](https://ahmadpanel.web.id)
-* 💬 **Discord:** [Join Discord](https://discord.gg/zBrBkxFuse)
+* 💬 **Discord:** [Join Discord](https://discord.gg/HHqGenkTpv)
 
 ---
 
@@ -20,11 +20,8 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Julakk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julakk&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Julakk&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Julakk&theme=tokyonight&hide_border=true" width="100%" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julakk&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=Julakk&theme=tokyonight&hide_border=true)
