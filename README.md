@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,11,15&height=180&section=header&text=Halo,%20Saya%20Julakk!&fontSize=40&fontColor=fff&animation=fadeIn" width="100%" />
+</p>
 
-<!--
-**Julakk/Julakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Tentang Saya
 
-Here are some ideas to get you started:
+* ⚡ **Fokus:** Android dev | Pawn / SA-MP | Web Hosting
+* 🌐 **Website:** [ahmadpanel.web.id](https://ahmadpanel.web.id)
+* 💬 **Discord:** [Join Discord](https://discord.gg/zBrBkxFuse)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=android,cpp,python,docker,laravel,go,html,css,js" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Julakk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julakk&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Julakk&theme=tokyonight&hide_border=true" width="100%" />
+</p>
