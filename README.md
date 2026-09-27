@@ -26,7 +26,7 @@
 > *(Ganti nama pengguna dan repository di bawah ini dengan proyek GitHub terbaik Anda)*
 
 - [📁 **Cyber Security**](https://github.com/Julakk/cyber-security) - Deskripsi singkat mengenai proyek pertama Anda (misal: panel hosting / alat Android).
-- [📁 **Nama Proyek 2**](https://github.com/Julakk/nama-repo-2) - Deskripsi singkat mengenai proyek kedua Anda.
+- [📁 **DockPanel**](https://github.com/Julakk/DockPanel) - Deskripsi singkat mengenai proyek kedua Anda.
 
 ---
 
