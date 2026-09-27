@@ -6,22 +6,41 @@
 
 * ⚡ **Fokus:** Android dev | Pawn / SA-MP | Web Hosting
 * 🌐 **Website:** [ahmadpanel.web.id](https://ahmadpanel.web.id)
-* 💬 **Discord:** [Join Discord](https://discord.gg/HHqGenkTpv)
+* 💬 **Discord Komunitas:** 
+  * [Ahmad Store Hosting](https://discord.gg/HHqGenkTpv)
+  * [Ahmad Hosting](https://discord.gg/gAK7DG9cdh)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=android,cpp,python,docker,laravel,go,html,css,js" />
-</p>
+* **Languages & Frameworks:** <br>
+  <img src="https://skillicons.dev/icons?i=android,cpp,python,laravel,go,html,css,js" />
+* **Tools & DevOps:** <br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+
+---
+
+### 📌 Proyek Unggulan
+
+> *(Ganti nama pengguna dan repository di bawah ini dengan proyek GitHub terbaik Anda)*
+
+- [📁 **Nama Proyek 1**](https://github.com/Julakk/nama-repo-1) - Deskripsi singkat mengenai proyek pertama Anda (misal: panel hosting / alat Android).
+- [📁 **Nama Proyek 2**](https://github.com/Julakk/nama-repo-2) - Deskripsi singkat mengenai proyek kedua Anda.
 
 ---
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Julakk&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Julakk&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4" width="100%" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julakk&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Julakk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julakk&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-![](https://streak-stats.demolab.com?user=Julakk&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Julakk&theme=tokyonight&hide_border=true" width="100%" />
+</p>
