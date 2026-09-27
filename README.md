@@ -17,7 +17,7 @@
 > Menyediakan berbagai kebutuhan server game, bot, dan VPS performa tinggi dengan harga bersahabat:
 
 - 🎮 **Hosting SA-MP & OpenMP** (Stabil & Anti Lag)
-- 🤖 **Hosting Bot** (Discord / WhatsApp 24/7)
+- 🤖 **Hosting Bot** (Discord 24/7)
 - ⛏️ **Hosting Minecraft** (Performa tinggi untuk mabar)
 - 💻 **VPS AMD Epyc & Intel Xeon** (Kecepatan maksimal untuk panel & web)
 
@@ -39,15 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julakk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julakk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Julakk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
