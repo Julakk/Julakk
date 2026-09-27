@@ -23,18 +23,12 @@
 
 ### 📌 Proyek Unggulan
 
-> *(Ganti nama pengguna dan repository di bawah ini dengan proyek GitHub terbaik Anda)*
-
-- [📁 **Cyber Security**](https://github.com/Julakk/cyber-security) - Deskripsi singkat mengenai proyek pertama Anda (misal: panel hosting / alat Android).
+- [📁 **Cyber Security**](https://github.com/Julakk/cyber-security) - Deskripsi singkat mengenai proyek pertama Anda.
 - [📁 **DockPanel**](https://github.com/Julakk/DockPanel) - Deskripsi singkat mengenai proyek kedua Anda.
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Julakk&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Julakk&theme=tokyonight" />
@@ -50,8 +44,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Julakk&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Julakk&theme=tokyonight&hide_border=true" width="100%" />
 </p>
