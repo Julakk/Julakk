@@ -4,11 +4,16 @@
 
 ### 👋 Tentang Saya & Layanan Hosting
 
-* ⚡ **Fokus:** Android dev | Pawn / SA-MP / OpenMP | Web & Server Hosting
+* ⚡ **Fokus:** Android dev | Pawn / SA-MP / OpenMP | Game Dev | Web & Server Hosting
 * 🌐 **Website Utama:** [ahmadpanel.web.id](https://ahmadpanel.web.id)
-* 💬 **Discord Komunitas & Order:** 
+* 💬 **Discord Komunitas & Order:**
   * [Ahmad Store Hosting](https://discord.gg/HHqGenkTpv)
   * [Ahmad Hosting](https://discord.gg/gAK7DG9cdh)
+
+<p>
+  <a href="https://ahmadpanel.web.id"><img src="https://img.shields.io/badge/Website-ahmadpanel.web.id-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://discord.gg/HHqGenkTpv"><img src="https://img.shields.io/badge/Discord-Order%20Hosting-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -26,7 +31,7 @@
 ### 🛠️ Tech Stack & Tools
 
 * **Languages & Frameworks:** <br>
-  <img src="https://skillicons.dev/icons?i=android,cpp,python,laravel,go,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=android,cpp,python,laravel,go,html,css,js,nodejs,threejs" />
 * **Tools & DevOps:** <br>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
 
@@ -34,8 +39,11 @@
 
 ### 📌 Proyek Unggulan
 
-- [📁 **Cyber Security**](https://github.com/Julakk/cyber-security) - Repositori terkait keamanan siber.
-- [📁 **DockPanel**](https://github.com/Julakk/DockPanel) - Pengelolaan panel dan kontainer server.
+- [⛏️ **BlockWorld**](https://github.com/Julakk/BlockWorld) - Game survival voxel ala Minecraft (Three.js)
+- [🖥️ **DockPanel**](https://github.com/Julakk/DockPanel) - Panel manajemen game server
+- [🪽 **DockWings**](https://github.com/Julakk/DockWings) - Daemon/node untuk DockPanel
+- [🛠️ **Pawn-Studio**](https://github.com/Julakk/Pawn-Studio) - Tools untuk Pawn/SA-MP
+- [📁 **Cyber Security**](https://github.com/Julakk/cyber-security) - Repositori terkait keamanan siber
 
 ---
 
@@ -43,4 +51,9 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Julakk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Julakk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julakk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
