@@ -43,7 +43,6 @@
 - [🖥️ **DockPanel**](https://github.com/Julakk/DockPanel) - Panel manajemen game server
 - [🪽 **DockWings**](https://github.com/Julakk/DockWings) - Daemon/node untuk DockPanel
 - [🛠️ **Pawn-Studio**](https://github.com/Julakk/Pawn-Studio) - Tools untuk Pawn/SA-MP
-- [📁 **Cyber Security**](https://github.com/Julakk/cyber-security) - Repositori terkait keamanan siber
 
 ---
 
